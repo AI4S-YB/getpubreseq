@@ -1,6 +1,6 @@
 # 🔬 NCBI Resequencing Data Fetcher
 
-一个让 AI 助手自动从 NCBI 检索重测序数据的 Skill，支持 SRA/ENA 数据库的智能查询和结果整理。
+一个让 AI 助手自动从 NCBI 检索重测序数据的 Skill，支持 SRA数据库的智能查询和结果整理。
 
 ## ✨ 功能特性
 
