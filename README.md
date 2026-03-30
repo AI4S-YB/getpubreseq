@@ -1,6 +1,7 @@
 # 🔬 Balabababa (扒拉扒扒扒；)
 
-<img width="1160" height="965" alt="c08cad7e92799f18e6800ff9a83bc36a" src="https://github.com/user-attachments/assets/35c73b8d-82be-4642-84fd-25b6e8e84ce0" />
+
+<img width="453" height="377" alt="c08cad7e92799f18e6800ff9a83bc36a" src="https://github.com/user-attachments/assets/103765cc-9b2e-4be5-a571-e3f4b4301995" />
 
 麦当劳钟意你黎，钟意你又黎，钟意你每日都黎（不是）
 
