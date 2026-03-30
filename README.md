@@ -1,6 +1,10 @@
-# 🔬 NCBI Resequencing Data Fetcher
+# 🔬 Balabababa (扒拉扒扒扒；)
 
-一个让 AI 助手自动从 NCBI 检索重测序数据的 Skill，支持 SRA数据库的智能查询和结果整理。
+<img width="1160" height="965" alt="c08cad7e92799f18e6800ff9a83bc36a" src="https://github.com/user-attachments/assets/35c73b8d-82be-4642-84fd-25b6e8e84ce0" />
+
+麦当劳钟意你黎，钟意你又黎，钟意你每日都黎（不是）
+
+一个让 AI 助手（Opencode, 龙虾，codex）自动选择合适的数据库扒拉并检索的小插件，支持SRA数据库的智能查询和结果整理，功能基因搜索等......更新中。
 
 ## ✨ 功能特性
 
