@@ -1,4 +1,4 @@
-# 🔬 Balabababa (扒拉扒扒扒；)
+# 🔬 Balabababa (扒拉扒扒扒)
 
 
 <img width="453" height="377" alt="c08cad7e92799f18e6800ff9a83bc36a" src="https://github.com/user-attachments/assets/103765cc-9b2e-4be5-a571-e3f4b4301995" />
