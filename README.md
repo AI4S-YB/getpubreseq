@@ -3,7 +3,7 @@
 
 <img width="453" height="377" alt="c08cad7e92799f18e6800ff9a83bc36a" src="https://github.com/user-attachments/assets/103765cc-9b2e-4be5-a571-e3f4b4301995" />
 
-麦当劳钟意你黎，钟意你又黎，钟意你每日都黎（不是）
+麦当劳（不是）钟意你黎，钟意你又黎，钟意你每日都黎，请问你要扒滴咩咧？
 
 一个让 AI 助手（Opencode, 龙虾，codex）自动选择合适的数据库扒拉并检索的小插件，支持SRA数据库的智能查询和结果整理，功能基因搜索等......更新中。
 
